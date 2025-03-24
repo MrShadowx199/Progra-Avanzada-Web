@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\Progra_Avanzada_Web\\Progra-Avanzada-Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0669AA4-51EF-43CE-9DA1-15DC79CF979D}|AspnetCoreMvcFull.csproj|c:\\users\\mateo rincon\\onedrive\\escritorio\\progra_avanzada_web\\progra-avanzada-web\\.prettierrc.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B0669AA4-51EF-43CE-9DA1-15DC79CF979D}|AspnetCoreMvcFull.csproj|solutionrelative:.prettierrc.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0669AA4-51EF-43CE-9DA1-15DC79CF979D}|AspnetCoreMvcFull.csproj|c:\\users\\mateo rincon\\onedrive\\escritorio\\progra_avanzada_web\\progra-avanzada-web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0669AA4-51EF-43CE-9DA1-15DC79CF979D}|AspnetCoreMvcFull.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0669AA4-51EF-43CE-9DA1-15DC79CF979D}|AspnetCoreMvcFull.csproj|c:\\users\\mateo rincon\\onedrive\\escritorio\\progra_avanzada_web\\progra-avanzada-web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B0669AA4-51EF-43CE-9DA1-15DC79CF979D}|AspnetCoreMvcFull.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B0669AA4-51EF-43CE-9DA1-15DC79CF979D}|AspnetCoreMvcFull.csproj|c:\\users\\mateo rincon\\onedrive\\escritorio\\progra_avanzada_web\\progra-avanzada-web\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0669AA4-51EF-43CE-9DA1-15DC79CF979D}|AspnetCoreMvcFull.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,49 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".prettierrc.json",
-              "DocumentMoniker": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\Progra_Avanzada_Web\\Progra-Avanzada-Web\\.prettierrc.json",
-              "RelativeDocumentMoniker": ".prettierrc.json",
-              "ToolTip": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\Progra_Avanzada_Web\\Progra-Avanzada-Web\\.prettierrc.json",
-              "RelativeToolTip": ".prettierrc.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-24T03:11:05.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\Progra_Avanzada_Web\\Progra-Avanzada-Web\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\Progra_Avanzada_Web\\Progra-Avanzada-Web\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T03:10:53.248Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\Progra_Avanzada_Web\\Progra-Avanzada-Web\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\Progra_Avanzada_Web\\Progra-Avanzada-Web\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-24T03:07:14.546Z",
+              "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\Progra_Avanzada_Web\\Progra-Avanzada-Web\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\Progra_Avanzada_Web\\Progra-Avanzada-Web\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:56:45.083Z",
               "EditorCaption": ""
             }
           ]
