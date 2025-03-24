@@ -59,3 +59,34 @@ C:\Users\Mateo Rincon\OneDrive\Escritorio\Progra_Avanzada_Web\Progra-Avanzada-We
 C:\Users\Mateo Rincon\OneDrive\Escritorio\Progra_Avanzada_Web\Progra-Avanzada-Web\obj\Debug\net8.0\AspnetCoreMvcFull.pdb
 C:\Users\Mateo Rincon\OneDrive\Escritorio\Progra_Avanzada_Web\Progra-Avanzada-Web\obj\Debug\net8.0\AspnetCoreMvcFull.genruntimeconfig.cache
 C:\Users\Mateo Rincon\OneDrive\Escritorio\Progra_Avanzada_Web\Progra-Avanzada-Web\obj\Debug\net8.0\ref\AspnetCoreMvcFull.dll
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\bin\Debug\net8.0\.prettierrc.json
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\bin\Debug\net8.0\appsettings.json
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\bin\Debug\net8.0\package.json
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\bin\Debug\net8.0\AspnetCoreMvcFull.staticwebassets.runtime.json
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\bin\Debug\net8.0\AspnetCoreMvcFull.exe
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\bin\Debug\net8.0\AspnetCoreMvcFull.deps.json
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\bin\Debug\net8.0\AspnetCoreMvcFull.runtimeconfig.json
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\bin\Debug\net8.0\AspnetCoreMvcFull.dll
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\bin\Debug\net8.0\AspnetCoreMvcFull.pdb
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\obj\Debug\net8.0\AspnetCoreMvcFull.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\obj\Debug\net8.0\AspnetCoreMvcFull.AssemblyInfoInputs.cache
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\obj\Debug\net8.0\AspnetCoreMvcFull.AssemblyInfo.cs
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\obj\Debug\net8.0\AspnetCoreMvcFull.csproj.CoreCompileInputs.cache
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\obj\Debug\net8.0\AspnetCoreMvcFull.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\obj\Debug\net8.0\AspnetCoreMvcFull.RazorAssemblyInfo.cache
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\obj\Debug\net8.0\AspnetCoreMvcFull.RazorAssemblyInfo.cs
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\obj\Debug\net8.0\AspnetCoreMvcFull.sourcelink.json
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\obj\Debug\net8.0\staticwebassets\msbuild.AspnetCoreMvcFull.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\obj\Debug\net8.0\staticwebassets\msbuild.build.AspnetCoreMvcFull.props
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AspnetCoreMvcFull.props
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AspnetCoreMvcFull.props
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\obj\Debug\net8.0\scopedcss\bundle\AspnetCoreMvcFull.styles.css
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\obj\Debug\net8.0\AspnetCoreMvcFull.dll
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\obj\Debug\net8.0\refint\AspnetCoreMvcFull.dll
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\obj\Debug\net8.0\AspnetCoreMvcFull.pdb
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\obj\Debug\net8.0\AspnetCoreMvcFull.genruntimeconfig.cache
+C:\Proyectos\PrograAvnazadaWeb\Progra-Avanzada-Web\obj\Debug\net8.0\ref\AspnetCoreMvcFull.dll

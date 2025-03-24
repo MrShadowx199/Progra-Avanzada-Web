@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mateo Rincon\\.nuget\\packages\\": {}
+    "C:\\Users\\Roger\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\Progra_Avanzada_Web\\Progra-Avanzada-Web\\AspnetCoreMvcFull.csproj",
+      "projectUniqueName": "C:\\Proyectos\\PrograAvnazadaWeb\\Progra-Avanzada-Web\\AspnetCoreMvcFull.csproj",
       "projectName": "AspnetCoreMvcFull",
-      "projectPath": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\Progra_Avanzada_Web\\Progra-Avanzada-Web\\AspnetCoreMvcFull.csproj",
-      "packagesPath": "C:\\Users\\Mateo Rincon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\Progra_Avanzada_Web\\Progra-Avanzada-Web\\obj\\",
+      "projectPath": "C:\\Proyectos\\PrograAvnazadaWeb\\Progra-Avanzada-Web\\AspnetCoreMvcFull.csproj",
+      "packagesPath": "C:\\Users\\Roger\\.nuget\\packages\\",
+      "outputPath": "C:\\Proyectos\\PrograAvnazadaWeb\\Progra-Avanzada-Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mateo Rincon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Roger\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
