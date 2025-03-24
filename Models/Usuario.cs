@@ -21,15 +21,18 @@ namespace AspnetCoreMvcFull.Models
         public string Telefono { get; set; }
 
         [Required]
-        public string Contraseña { get; set; }  
+        public string Contraseña { get; set; }
 
         [StringLength(20)]
-        public string Estado { get; set; } = "Activo"; // Activo/Inactivo
+        public string Estado { get; set; } = "Activo";
 
-        [Required]
+        public DateTime FechaRegistro { get; set; } = DateTime.Now;
+
         [ForeignKey("Rol")]
         public int RolID { get; set; }
 
-     
+        public Rol Rol { get; set; }
+
+
     }
 }
